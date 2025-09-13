@@ -1,0 +1,12 @@
+# Carpetas de PyCharm
+.idea/
+
+# Entorno virtual
+.venv/
+
+# Archivos compilados
+__pycache__/
+*.py[cod]
+
+# Otros
+*.log
